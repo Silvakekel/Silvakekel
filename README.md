@@ -1,48 +1,47 @@
-Silvakekel.github.io/
-├── index.html          # Página principal
-├── styles/
-│   └── main.css       # Estilos CSS
-├── scripts/
-│   └── main.js        # JavaScript (opcional)
-├── images/            # Pasta para suas imagens
-└── projects/          # Pasta para projetos específicos
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio de Silvakekel</title>
-    <link rel="stylesheet" href="styles/main.css">
-</head>
-<body>
-    <header>
-        <h1>Silvakekel</h1>
-        <p>Desenvolvedor | Designer | Sua Especialização</p>
-    </header>
-    
-    <section id="sobre">
-        <h2>Sobre Mim</h2>
-        <p>Uma breve introdução sobre você, suas habilidades e experiências.</p>
-    </section>
-    
-    <section id="projetos">
-        <h2>Projetos</h2>
-        <div class="project">
-            <h3>Nome do Projeto 1</h3>
-            <p>Descrição do projeto e tecnologias utilizadas.</p>
-            <a href="#">Ver projeto</a>
-        </div>
-        <!-- Adicione mais projetos conforme necessário -->
-    </section>
-    
-    <section id="contato">
-        <h2>Contato</h2>
-        <p>Email: seuemail@exemplo.com</p>
-        <p>GitHub: github.com/Silvakekel</p>
-    </section>
-    
-    <footer>
-        <p>&copy; 2023 Silvakekel. Todos os direitos reservados.</p>
-    </footer>
-</body>
-</html>
+# Portfólio de Silvakekel
+
+👋 Olá! Meu nome é **Kelvyn Silva** (Silvakekel) e sou estudante de Análise e Desenvolvimento de Sistemas.
+
+## 🚀 Sobre Mim
+
+- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Aprendendo: Java, Python, Banco de Dados e Desenvolvimento Web
+- 💡 Interesses: Backend Development, Data Science e Automação
+- 📫 Como me encontrar: [kekelwashington@gmail.com] ou [www.linkedin.com/in/kelvyn-washington-01b55a378]
+
+## 🛠 Habilidades Técnicas
+
+### Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📂 Projetos Acadêmicos
+
+### [Nome do Projeto 1]
+- Descrição breve do projeto
+- Tecnologias utilizadas: Java, MySQL
+
+
+### [Nome do Projeto 2]
+- Descrição breve do projeto
+- Tecnologias utilizadas: Python, Pandas
+  
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=silvakekel&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=silvakekel&layout=compact&theme=radical)
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
