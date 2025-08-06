@@ -1,10 +1,5 @@
 ## Hi there 👋
-
-<!--
-**Silvakekel/Silvakekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!--**Silvakekel/Silvakekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working Analise desenvolvimento de sistemas 
 - 🌱 I’m currently learning Analise desenvolvimento de sistemas
 - 👯 I’m looking to collaborate on Analise desenvolvimento de sistemas
